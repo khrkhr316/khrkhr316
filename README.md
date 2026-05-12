@@ -77,7 +77,7 @@ Python 기반 AI 서비스와 백엔드 개발을 공부하며
 
 # 📈 GitHub Stats
 
-<div align="center">
+<div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khrkhr316&show_icons=true&theme=tokyonight)
 
