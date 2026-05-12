@@ -77,11 +77,11 @@ Python 기반 AI 서비스와 백엔드 개발을 공부하며
 
 # 📈 GitHub Stats
 
-<div>
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khrkhr316&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=khrkhr316&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khrkhr316&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khrkhr316&theme=tokyo-night)
 
 </div>
 
