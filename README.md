@@ -79,9 +79,9 @@ Python 기반 AI 서비스와 백엔드 개발을 공부하며
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khrkhr316&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khrkhr316&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -89,8 +89,8 @@ Python 기반 AI 서비스와 백엔드 개발을 공부하며
 
 # 📫 Contact
 
-- Email : your_email@gmail.com
-- Blog : https://yourblog.com
+- Email : kepcokhr@gmail.com
+- Blog : https://khr316.tistory.com
 
 ---
 
