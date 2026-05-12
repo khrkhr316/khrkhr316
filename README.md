@@ -77,13 +77,12 @@ Python 기반 AI 서비스와 백엔드 개발을 공부하며
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=khrkhr316&theme=tokyonight)](https://git.io/streak-stats)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khrkhr316&theme=tokyo-night)
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=khrkhr316&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+</p>
 
 ---
 
